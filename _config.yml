@@ -24,11 +24,11 @@ github_username: thsutt
 
 # Build settings
 # theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
+# plugins:
+#   - jekyll-feed
+#   - jekyll-remote-theme
 
-remote-theme: pages-themes/cayman@v0.2.0
+# remote-theme: pages-themes/cayman@v0.2.0
 
 # Exclude from processing.
 # The following items will not be processed, by default.
