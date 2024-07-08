@@ -47,7 +47,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-plugins:
-  - jekyll-remote-theme
+# plugins:
+#   - jekyll-remote-theme
 
-remote_theme: vszhub/not-pure-poole
+# remote_theme: vszhub/not-pure-poole
