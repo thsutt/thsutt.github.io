@@ -21,7 +21,7 @@
 title: Thomas Sutter
 email: thomashsutter@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -30,6 +30,7 @@ github_username:  jekyll
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 plugins:
   - jekyll-feed
+# skin: "/assets/css/skins/dark.css"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
