@@ -6,7 +6,7 @@ categories:
 ---
 ![Beach](/assets/beach.jpeg)
 ## My First Post
-Hello and welcome to my programming blog! I'm starting this up because I want to have a formal way to build (and showcase) my knowledge of computer science outside of my job as a software developer. I'm writing enough code nowadays that my long-from writing ability is rapidly atrophying, so I'm also hoping keeping this blog going will continue to strengthen that muscle.
+Hello and welcome to my programming blog! I'm starting this up because I want to have a formal way to build (and showcase) my knowledge of computer science outside of my job as a software developer. I'm writing enough code nowadays that my long-form writing ability is rapidly atrophying, so I'm also hoping keeping this blog going will continue to strengthen that muscle.
 
 ## What Will You Find On Here?
 This blog will be part documentation of my programming journey, part self-study curriculum, part tutorial, and mainly my own barely coherent ramblings. I'm not really writing it with any audience in mind, but just as a way to focus and direct my own extracurricular computer science endeavors.
