@@ -6,11 +6,11 @@ categories:
 ---
 ![Airport](/assets/10-2-24/banner-1.png)
 # Introduction
-Disclaimer – I am by no means an expert in any of this. I am writing this as much to enhance my own understanding as for my fictitious blog audience. This isn't an explanation for physicists or electrical engineers, it's for computer scientists who are uneasy about not having some vague intuition for how a Nand gate can be made from wafers of silicon.
-
 I'm about to start working through the Nand2Tetris course, a sequence of projects that starts with Nand gates and builds up to a complete operating system and high level language compiler. Nand gates are the smallest building block of computers that isn't an actual electrical circuit. They still *are* circuits, but when you design a computer, you don't have to know what the circuitry looks like underneath to start combining them into more complex features. A Nand gate, to a computer scientist, simply takes in two inputs of 1 or 0 and spits out a 1 unless both inputs are 1. This is already a super, *super* zoomed in level of abstraction, but to me it's not quite good enough to understand computers from the ground up.  What does "1" and "0" mean? What physical structure implements this logic?
 
 To truly start from the ground up, I'm going to take a peek just below the surface of the nand abstraction at silicon – the stuff that actually comes from the ground – and how it can be manipulated into a low level circuit that computer scientists can draw a box around and call it "nand".
+
+Disclaimer – I am by no means an expert in any of this. I am writing this as much to enhance my own understanding as for my fictitious blog audience. This isn't an explanation for physicists or electrical engineers, it's for computer scientists who are uneasy about not having some vague intuition for how a Nand gate can be made from wafers of silicon.
 
 # Silicon
 If you're anything like me, you probably only know that silicon is related to computers because of a valley in California. Maybe you also have heard that sand is made out of silicon. Are all these tech companies based in California so they can guzzle up all the silicon-laden sand from its plentiful beaches? 
