@@ -1,0 +1,33 @@
+baseURL = "https://YOUR-USERNAME.github.io/"
+languageCode = "en-us"
+title = "Tom Sutter"
+theme = "PaperMod"
+
+[params]
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+
+[pagination]
+  pagerSize = 10
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[params.homeInfoParams]
+  Title = "Hi, I'm Tom Sutter"
+  Content = "I work on AI safety / ML. This site hosts my projects, write-ups, and research notes."
